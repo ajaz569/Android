@@ -1,0 +1,9 @@
+session tracking
+Authentication type
+handler methods
+serialization
+how to use garbage collector in CLR
+how clr manage unmanage code
+handler function
+com component
+table Employee and table Department get employee and departmenet using join
